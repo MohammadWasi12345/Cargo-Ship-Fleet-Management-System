@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dCuZjGwt8Ds=",
+  "success": true,
+  "projectFilePath": "C:\\ssuet assignments\\ship fleet management system\\ShipFleet\\ShipFleet.Core\\ShipFleet.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ESHOP\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.8\\microsoft.entityframeworkcore.abstractions.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,6 @@
+@ShipFleet.API_HostAddress = http://localhost:5188
+
+GET {{ShipFleet.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

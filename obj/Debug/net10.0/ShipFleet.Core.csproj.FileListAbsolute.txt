@@ -1,0 +1,12 @@
+C:\ssuet assignments\ship fleet management system\ShipFleet\ShipFleet.Core\bin\Debug\net10.0\ShipFleet.Core.deps.json
+C:\ssuet assignments\ship fleet management system\ShipFleet\ShipFleet.Core\bin\Debug\net10.0\ShipFleet.Core.dll
+C:\ssuet assignments\ship fleet management system\ShipFleet\ShipFleet.Core\bin\Debug\net10.0\ShipFleet.Core.pdb
+C:\ssuet assignments\ship fleet management system\ShipFleet\ShipFleet.Core\obj\Debug\net10.0\ShipFleet.Core.csproj.AssemblyReference.cache
+C:\ssuet assignments\ship fleet management system\ShipFleet\ShipFleet.Core\obj\Debug\net10.0\ShipFleet.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\ssuet assignments\ship fleet management system\ShipFleet\ShipFleet.Core\obj\Debug\net10.0\ShipFleet.Core.AssemblyInfoInputs.cache
+C:\ssuet assignments\ship fleet management system\ShipFleet\ShipFleet.Core\obj\Debug\net10.0\ShipFleet.Core.AssemblyInfo.cs
+C:\ssuet assignments\ship fleet management system\ShipFleet\ShipFleet.Core\obj\Debug\net10.0\ShipFleet.Core.csproj.CoreCompileInputs.cache
+C:\ssuet assignments\ship fleet management system\ShipFleet\ShipFleet.Core\obj\Debug\net10.0\ShipFleet.Core.dll
+C:\ssuet assignments\ship fleet management system\ShipFleet\ShipFleet.Core\obj\Debug\net10.0\refint\ShipFleet.Core.dll
+C:\ssuet assignments\ship fleet management system\ShipFleet\ShipFleet.Core\obj\Debug\net10.0\ShipFleet.Core.pdb
+C:\ssuet assignments\ship fleet management system\ShipFleet\ShipFleet.Core\obj\Debug\net10.0\ref\ShipFleet.Core.dll
